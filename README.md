@@ -21,9 +21,7 @@ https://eomzic.github.io/portfolio_page/
 
 💌메일 : yoon6e@gmail.com
 
-/*💚벨로그 : https://velog.io/@soonmac*/
 
-/*💙노션(TIL메모용) : https://paint-flower-5f0.notion.site/TIL-01687f28163d4864b7e0c6bf11268897*/
 
 ## 포트폴리오 페이지에 사용한 기술
 ### JavaScript ES6
@@ -38,7 +36,6 @@ https://eomzic.github.io/portfolio_page/
 
 
 
-/*📎관련 작성글(코드 설명) : https://velog.io/@soonmac/%EC%8A%A4%ED%81%AC%EB%A1%A4-%EC%9C%84%EC%B9%98%EC%97%90-%EB%94%B0%EB%9D%BC-marker%EA%B0%80-%EC%9B%80%EC%A7%81%EC%9D%B4%EB%8A%94-%EB%82%B4%EB%B9%84%EA%B2%8C%EC%9D%B4%EC%85%98*/
 
 ### 이미지를 클릭하면 나오는 팝업 슬라이드
 ![슬라이드](7-1.gif)
@@ -49,7 +46,6 @@ https://eomzic.github.io/portfolio_page/
 * 무한 슬라이드
   
 
-/*📎관련 작성글(코드 설명) :https://velog.io/@soonmac/%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%ED%81%B4%EB%A6%AD%ED%95%98%EB%A9%B4-%EB%82%98%EC%98%A4%EB%8A%94-%ED%8C%9D%EC%97%85-%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C%EB%B0%94%EB%8B%90%EB%9D%BCJS*/
 
 ## 반응형 웹페이지
 PC, tablet, mobile 해상도에 따라 보이도록 미디어 쿼리를 작성했습니다.
